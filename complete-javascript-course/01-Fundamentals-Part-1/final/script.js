@@ -342,7 +342,7 @@ TEST DATA BONUS 2: Dolphins score 97, 112 and 101. Koalas score 109, 95 and 106
 GOOD LUCK 😀
 */
 
-/*
+
 // const scoreDolphins = (96 + 108 + 89) / 3;
 // const scoreKoalas = (88 + 91 + 110) / 3;
 // console.log(scoreDolphins, scoreKoalas);
@@ -354,7 +354,7 @@ GOOD LUCK 😀
 // } else if (scoreDolphins === scoreKoalas) {
 //   console.log('Both win the trophy!');
 // }
-
+/*
 // BONUS 1
 const scoreDolphins = (97 + 112 + 80) / 3;
 const scoreKoalas = (109 + 95 + 50) / 3;
@@ -426,7 +426,7 @@ const me = 'Jonas';
 console.log(`I'm ${2037 - 1991} years old ${me}`);
 
 ////////////////////////////////////
-// The Conditional (Ternary) Operator
+// Section 2.28: The Conditional (Ternary) operator
 const age = 23;
 // age >= 18 ? console.log('I like to drink wine 🍷') : console.log('I like to drink water 💧');
 
@@ -462,7 +462,7 @@ GOOD LUCK 😀
 */
 
 /*
-const bill = 430;
+const bill = 275;
 const tip = bill <= 300 && bill >= 50 ? bill * 0.15 : bill * 0.2;
 console.log(`The bill was ${bill}, the tip was ${tip}, and the total value ${bill + tip}`);
 */
